@@ -1,5 +1,4 @@
-#! /usr/bin/env node
-process.argv;
+
 import chalkAnimation from "chalk-animation";
 import chalk from "chalk";
 import inquirer from "inquirer";
